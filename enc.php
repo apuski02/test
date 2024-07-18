@@ -31,4 +31,10 @@ echo "<br><br>";
 // Display the encrypted string
 echo "Encrypted String: " . $encryption . "\n";
 
+
+
+
+echo "second commnit here";
+
+
 ?>
