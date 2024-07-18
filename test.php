@@ -48,5 +48,10 @@ echo "Decrypted String: " . $decryption;
 
 
 
-echo "whatsss salary from git";
+
+echo "fixing salary from git";
+
+echo "fixing update text from git";
+
+
 ?>
