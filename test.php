@@ -49,4 +49,8 @@ echo "Decrypted String: " . $decryption;
 
 
 echo "fixing salary from git";
+
+echo "fixing update text from git";
+
+
 ?>
